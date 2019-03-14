@@ -1,0 +1,5 @@
+1230000.0,A10988,asdsdf,Andres Lopez,
+8.374646E7,A10232,dsfgg,Oscar Melo,
+1500000.0,A10048,asdsdf,Carlos Urrego,
+400000.0,A10088,asdsdf,Jeremias Ortiz,
+1.23E7,A10099,asdsdf,Pedro Miranda,
